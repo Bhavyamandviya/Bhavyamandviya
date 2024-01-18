@@ -4,9 +4,7 @@
 
  🔗 I'm not a great programmer; I'm just a good programmer with great habits and strong communication skills
 
-* I'm currently working on React Js
-
-* I'm currently learning Node Js
+* I'm currently working on React Js, React Native Developer
 
 * I have solved 100+ leetcode problems https://leetcode.com/Bhavya1/
 
@@ -36,7 +34,8 @@
 * HTML
 * JavaScript
 * Mongodb
-* Python
 * Nodejs
 * ExpressJS
 * CSS
+* React Native
+* GraphQL
